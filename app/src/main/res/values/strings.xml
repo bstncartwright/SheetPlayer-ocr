@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SheetPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_from_files">Choose from Files</string>
+</resources>
