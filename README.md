@@ -3,7 +3,7 @@ Reading pictures of sheet music and outputting them in audio files (midi).
 
 This was a personal project for me that I had motivation to do, and to learn lots of different things.
 
-In essence, the idea is that you can take a picture of a piece of sheet music, and it would play it back to you audibly.
+In essence, the idea is that you can take a picture of a piece of sheet music with your android phone, and it would play it back to you audibly.
 It turned out to be a much larger project than I expected, and than I had the knowledge to do. However, thanks to great open source libraries I was able to get it to work, generally.
 
 ## Special thanks to:
